@@ -1,0 +1,11 @@
+evdev:input:b0005*            # Bluetooth 
+ KEYBOARD_KEY_7003e=tab       # bind F5 to tab
+ KEYBOARD_KEY_7003f=esc       # bind F6 to esc
+ KEYBOARD_KEY_70040=backspace # bind F7 to backspace
+ KEYBOARD_KEY_70041=enter     # bind F8 to enter
+
+evdev:input:b0003*            # USB
+ KEYBOARD_KEY_7003e=tab       # bind F5 to tab
+ KEYBOARD_KEY_7003f=esc       # bind F6 to esc
+ KEYBOARD_KEY_70040=backspace # bind F7 to backspace
+ KEYBOARD_KEY_70041=enter     # bind F8 to enter
