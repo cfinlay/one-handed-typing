@@ -1,3 +1,5 @@
+# Put this file in /etc/udev/hwdb.d/
+# and run systemd-hwdb update
 evdev:input:b0005*            # Bluetooth 
  KEYBOARD_KEY_7003e=tab       # bind F5 to tab
  KEYBOARD_KEY_7003f=esc       # bind F6 to esc
