@@ -101,7 +101,7 @@ involves a lot of typing, so it may take longer if you're not spending hours at
 a time on a keyboard. But with a bit of dedicated practice, it's totally
 doable.
 
-I now pretty consistently touch type at around 45 wpm, which is not so bad.
+I now pretty consistently touch type at around 45 wpm.
 I've heard that the average two handed touch typist has a typing speed of about 58
 wpm; while the average typist (hunt and peck, and it's variants) clocks in at
 around 36 wpm.
