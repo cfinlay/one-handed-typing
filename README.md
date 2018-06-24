@@ -61,7 +61,7 @@ your proclivities. However, the one handed layouts were created in the late
 Allen](https://en.wikipedia.org/wiki/Robert_S._Allen) lost his right arm in the
 Second World War, he contacted [August
 Dvorak](https://en.wikipedia.org/wiki/August_Dvorak) to create a one handed
-keyboard layoutr. Dvorak used the same methodology to design the one handed
+keyboard layout. Dvorak used the same methodology to design the one handed
 variants as his original layout. So, at least there's a method underscoring the
 one handed layouts!
 
