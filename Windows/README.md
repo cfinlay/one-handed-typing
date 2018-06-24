@@ -6,5 +6,5 @@ As for foot switches, it seems that most foot switches come with a CD with
 installation software for Windows, so that you can remap the foot switch to
 whatever you like.
 
-I'd like to hear if you use any of this software on a Windows machine, and
+I'd like to hear from you if you use any of this software on a Windows machine, and
 we'll update this README for others.
