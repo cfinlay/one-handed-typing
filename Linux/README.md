@@ -75,3 +75,6 @@ For internal laptop keyboards, it's a bit different. I've included an example
 config file, which should match all internal laptop keyboards. All you need to
 do is check that the scancodes are correct for your laptop. Modify as you see
 fit, then place in `/etc/udev/hwdb.d/` as usual.
+
+## References
+Most of the above was gleaned from Arch Linux's amazing wiki: [[1]](https://wiki.archlinux.org/index.php/Extra_keyboard_keys#Identifying_scancodes) and [[2]](https://wiki.archlinux.org/index.php/Map_scancodes_to_keycodes)
