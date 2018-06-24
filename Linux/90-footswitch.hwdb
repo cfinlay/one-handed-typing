@@ -1,4 +1,6 @@
-# Put this file in /etc/udev/hwdb.d/
-# and run systemd-hwdb update
+# This is an example config file for an RDing foot switch.
+#
+# Put this file in /etc/udev/hwdb.d/ and run the command `systemd-hwdb update`.
+# The remappings become active on reboot.
 evdev:name:RDing FootSwitch1F1.:dmi:bvn*:bvr*:bd*:svn*:pn*
  KEYBOARD_KEY_70005=rightshift
