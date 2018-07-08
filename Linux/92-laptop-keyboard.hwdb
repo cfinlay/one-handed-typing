@@ -3,7 +3,7 @@
 #
 # Put this file in /etc/udev/hwdb.d/ and run the command `systemd-hwdb update`.
 # The remappings become active on reboot.
-evdev:atkbd:dmi:bvn*:bvr*:bd*:svn<vendor>:pn<product>:pvr*
+evdev:atkbd:dmi:bvn*:bvr*:bd*:svn*:pn*:pvr*
  KEYBOARD_KEY_3f=tab
  KEYBOARD_KEY_40=esc
  KEYBOARD_KEY_41=backspace
